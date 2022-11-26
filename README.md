@@ -1,5 +1,4 @@
 # school_task2
 
-学校の課題で作ったもの（python）
-
-入力した8puzzleを解くもの、入力した数独を解くもの
+Made for a school project (python)
+One that solves 8puzzle with input.  One that solves Sudoku with input.
